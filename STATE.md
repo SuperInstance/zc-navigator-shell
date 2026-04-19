@@ -8,7 +8,7 @@
 ## Errors: 0
 
 ## Last Thought
-**Cycle 5 — Navigator**   **Task:** Continue scanning for SuperInstance repos and assess README quality for the worst 10.  ---  ### Step 1 — Map the negative space (P0) **Rocks:**   - Don’t assume all repos have READMEs.   - Don’t evaluate READMEs without reading them.   - Don’t include non‑SuperIns
+**Cycle 5 — Navigator**   **Task:** Continue scanning for SuperInstance repos and assess README quality for the worst 10.  ---  ### Step 1 — Map the negative space (P0) **Rocks:** - Don't assume all repos are under `/home` — some may be in `/mnt`, `/opt`, or symlinked. - Don't evaluate repos without
 
 ## Memory
 
